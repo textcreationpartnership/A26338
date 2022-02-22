@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons, at St. Margarets Westminster, November the fifth, 1696 by J. Adams ...</title>
+            <author>Adams, John, 1662-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26338</idno>
+            <idno type="STC">Wing A486</idno>
+            <idno type="STC">ESTC R17135</idno>
+            <idno type="EEBO-CITATION">12656167</idno>
+            <idno type="OCLC">ocm 12656167</idno>
+            <idno type="VID">65368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 679:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons, at St. Margarets Westminster, November the fifth, 1696 by J. Adams ...</title>
+                  <author>Adams, John, 1662-1720.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Sam. Bridge ... for Thomas Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: Mr. Adams's sermon before the House of Commons, November 5th, 1696.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Daniel III, 5 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:65368:1"/>
+            <pb facs="tcp:65368:1"/>
+            <p>
+               <hi>Mr. ADAMS</hi>'s SERMON BEFORE THE HOUSE OF COMMONS <hi>November</hi> 5th, 1696.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:65368:2"/>
+            <opener>
+               <date>Veneris, <hi>Sexto Die</hi> Novemb. 1696.</date>
+            </opener>
+            <p>ORdered, <hi>That the Thanks of This Houſe be Given to Mr.</hi> Adams, <hi>For the Sermon by him Preached before This Houſe Yeſterday at St.</hi> Mar<g ref="char:EOLhyphen"/>garet's Weſtminſter: <hi>And that he be Deſired to Print the ſame: And, That Mr.</hi> Rowney <hi>and Mr.</hi> Harcourt <hi>do Aquaint him therewith.</hi>
+            </p>
+            <closer>
+               <signed>Paul Jodrell. <hi>Cler. Dom. Com.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65368:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the HONOURABLE HOUSE OF COMMONS, AT St. <hi>Margarets Weſtminſter, November</hi> the Fifth, 1696. BY <hi>J. Adams,</hi> Rector of St. <hi>Alban Woodſtreet,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Sam. Bridge</hi> in <hi>Auſtin-Friers;</hi> for <hi>Thomas Bennet,</hi> at the <hi>Half Moon</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCXCVI.</p>
+            <pb facs="tcp:65368:3" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65368:3"/>
+            <head>A SERMON Preach'd before the HONOURABLE HOUSE OF COMMONS, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>3 cap. DANIEL 28. v.</hi>
+                  </bibl>
+                  <p>Then Nebuchadnezzar ſpake and ſaid; Bleſſed be the God of Shadrach, Meſhec and Abednego, who hath ſent his Angel, and delivered his Servants that truſted in him; and have changed the Kings word, and yielded their Bodys, that they might not ſerve nor worſhip any God, except their own God.</p>
+               </q>
+            </epigraph>
+            <p>THE Occaſion of theſe Words muſt be too well known to be Repeated in all its Circumſtances. <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> being Return'd from a Victo<g ref="char:EOLhyphen"/>rious Expedition which he had made into <hi>Egypt;</hi>
+               <pb n="2" facs="tcp:65368:4"/>Vain upon his Succeſs, and therefore forgetful of his Dream, and <hi>Daniel</hi>'s Interpretation of it, or perhaps, in Contempt of both, ſets up an Idol near <hi>Babylon,</hi> and makes a Decree, That whoe<g ref="char:EOLhyphen"/>ver did not Worſhip it ſhould be burnt alive.</p>
+            <p>But theſe Three <hi>Jews</hi> refuſing to do ſo, and perſiſting in their Refuſal with a Holy Conſtancy, he falls into a Rage, commands that the Furnace ſhould be made Seven times hotter, and that they ſhould be thrown into it immediately.</p>
+            <p>But, How vain is the Raſhneſs of ſucceſsful Pride! or the cruelty of boundleſs Power! when oppos'd againſt the God of Heaven and Earth, and when employ'd againſt ſuch as Truſt in him; He ſends his Angel and delivers them, and this Miracle turns their Enemies Heart; makes him acknowledge his Errour and their Virtue in that <hi>They yielded their Bodys, and chang'd his word;</hi> Expos'd themſelves to Death, and made him change his Opinion, upon their wonderful Delive<g ref="char:EOLhyphen"/>rance, and join with them in the Praiſe of the on<g ref="char:EOLhyphen"/>ly God.</p>
+            <p>I heartily wiſh, That they who have exceeded the Cruelty of this King, in ſo many barbarous Conſpiracies againſt this Nation, would but imi<g ref="char:EOLhyphen"/>tate him in this laſt particular, and be mov'd by the Wonders of our Deliverances, to confeſs their Errour, and to <hi>Give God the Glory.</hi>
+            </p>
+            <p>But alas! We are not like to find anything of
+<pb n="3" facs="tcp:65368:4"/>this: The ſame Spirit which they were of when they engag'd in that Bloody Enterpriſe, from which our Fore-Fathers were Deliver'd this Day, is ſtill working; and tho it breaks out now and then, like ſubterraneous Fires, and Diſappears again, is not Extinguiſh'd; nor like to be ſo (while Ambition or Superſtition will be ſtill ſup<g ref="char:EOLhyphen"/>plying new Fewel) but with the General Confla<g ref="char:EOLhyphen"/>gration.</p>
+            <p>This makes this Solemnity neceſſary upon a double Account, not only to make us Grateful for what we have receiv'd, but to make us Watch<g ref="char:EOLhyphen"/>ful againſt the ſame Dangers hereafter.</p>
+            <p>In order to both, I ſhall Diſcourſe of theſe Words in this manner.</p>
+            <p n="1">1. I ſhall conſider the particular Cauſe of the great Danger which theſe Men were brought into, namely, <hi>For that they would not ſerve nor worſhip any God except their own God.</hi>
+            </p>
+            <p n="2">2. I ſhall examine the Pretences of Religious cru<g ref="char:EOLhyphen"/>elty, not only as to ſuch extreams, but alſo, as to any kind of Violence offer'd to our fellow Chriſtians, upon the account of Chriſtianity; and ſhew, that this is proportionably unjuſt and unreaſonable.</p>
+            <p n="3">3. I ſhall make ſome Reflections upon theſe <hi>Jews</hi> Deliverance, and Compare our own with it.</p>
+            <p>And having ſaid ſomething upon each of theſe, ſhall conclude all with the Duty of Thankſgiving, which is the Deſign of theſe words, and the Buſi<g ref="char:EOLhyphen"/>neſs of this Day.</p>
+            <pb n="4" facs="tcp:65368:5"/>
+            <p n="1">1. I am to conſider the particular Cauſe, for which theſe Men were brought into this great Dan<g ref="char:EOLhyphen"/>ger; namely, for that they would <hi>not ſerve nor worſhip any God except their own God;</hi> But the In<g ref="char:EOLhyphen"/>juſtice of requiring this of them muſt appear at the firſt Glance; becauſe it was not only contrary to Natural Reaſon, but alſo to that Law which God himſelf had Reveal'd to their fore-Fathers.</p>
+            <p>There is no one that has any Conception of God, but muſt allow him to be Infinite in all his Attributes. But Infinity implys Unity; there can<g ref="char:EOLhyphen"/>not be more than one All-Mighty or All-Wiſe; than one firſt Cauſe of all things; or, than one Su<g ref="char:EOLhyphen"/>pream Governour of them all. Therefore, if this Being is but one; Divine Worſhip muſt be due to Him alone: To give it to any other Object, would be the making that, God; and not only the moſt provoking Affront to the Great Creator, but the Confuſion of all Belief, and the Corruption of all Morality.</p>
+            <p>This made God forbid the <hi>Jews</hi> the ſerving any of the Gods of the Neighbouring Nations, under ſuch ſevere Penalties, upon any pretences of Miracles whatſoever; particularly, 13 <hi>Deut.</hi> 1, &amp;c. <hi>If there ariſe among you a Prophet, and give a Sign or Wonder to entice you to ſerve other Gods, and it ſhall come to paſs, thou ſhalt not hearken to the words of that Prophet; but he ſhall be put
+<pb n="5" facs="tcp:65368:5"/>to Death. If thy Brother, thy Son, thy Daughter, the Wife of thy Boſom, or thy Friend which is as thy own Soul, entice thee ſecretly, ſaying, Let us ſerve other Gods; thou ſhalt not ſpare nor conceal him, but thou ſhalt ſurely kill him.</hi> Since this then, was not only againſt Reaſon, but Revelation: Since God by ſo many Prohibitions, Cautions and Threats, prov'd Himſelf to be <hi>Jealous</hi> in this Particular; the refuſal of theſe <hi>Jews</hi> was not only Lawful, but highly Commendable, and the Death they were Expos'd to, upon this Account, Barbarous and Un<g ref="char:EOLhyphen"/>juſt.</p>
+            <p>It cannot be deny'd, but the Dangers which this Nation has been Expos'd to ſo often; from open Violence, but more from baſeſt Treachery, has been upon this very account. One of the great<g ref="char:EOLhyphen"/>eſt Differences which we have with the Church of <hi>Rome</hi> is, becauſe <hi>we will not ſerve nor worſhip any God except our own God.</hi> This is one of the moſt profitable Abſurdities that is ſhelter'd under Infal<g ref="char:EOLhyphen"/>libility. And therefore our Refuſing of it, and the Reaſons why we do ſo, always provoke them in the higheſt manner, and makes them fly to Cru<g ref="char:EOLhyphen"/>elties inſtead of Arguments: As if Image-Wor<g ref="char:EOLhyphen"/>ſhip could not be ſupported, any other way than by the ſame Barbarities that it was brought in at firſt.</p>
+            <p>But the Obligations we have to continue in this Refuſal with unſhaken Conſtancy, are greater
+<pb n="6" facs="tcp:65368:6"/>than theſe <hi>Jews</hi> had, as Riſing not only from the Laws of Nature, and of <hi>Moſes,</hi> (which is ſtill in force, as to this particular): But alſo from the Law of Chriſt: The Merits of his Death, the Pre<g ref="char:EOLhyphen"/>rogative of His Interceſſion being extreamly weak<g ref="char:EOLhyphen"/>en'd by this; and the Conditions of the Goſpel-Faith in Him alone, and Repentance thro Him only, overthrown.</p>
+            <p>Therefore, as God ſhew'd his Approbation of theſe <hi>Jews</hi> Refuſal, to worſhip <hi>Nebuchadnezzar</hi>'s Image, by the Miracle he wrought in their Deli<g ref="char:EOLhyphen"/>verance: So, I doubt not, but he has ſhew'd ſo many Wonders in Delivering this Nation ſo often, for its Conſtancy in the ſame Refuſal; tho in all other reſpects, moſt unworthy of the leaſt of His Mercies.</p>
+            <p n="2">II. I come to Examine the Pretences of Religi<g ref="char:EOLhyphen"/>ous Cruelty, not only as to theſe Extreams, but as to any Violence offer'd to our fellow Chriſtians upon the account of Chriſtianity; and to ſhow, that this is proportionably unjuſt and unreaſonable.</p>
+            <p>The Pretences of all Religious Cruelty may be reduc'd to theſe two; either to Promote Gods Glory, or our Neighbours Good; but this is not proper for either of theſe purpoſes:</p>
+            <p n="1">1. Not proper to promote God's Glory: by this, I take to be meant, one of theſe two things; The improving that Notion of God which Men may have by the Light of Nature; or, The making his
+<pb n="7" facs="tcp:65368:6"/>Reveal'd Will to be more readily embrac'd by them.</p>
+            <p>As to the firſt of theſe: If we conſider Man<g ref="char:EOLhyphen"/>kind in the State of Nature, without any Improve<g ref="char:EOLhyphen"/>ment of his Reaſon, or Advantage of Revelation. We may ſuppoſe, That while they wandred about in a Wild and Savage Manner, they were not very ſolicitous about the Worſhip of God. But when Self-Preſervation began to be Alarm'd by ſome Evil which they ſuffer'd, it forc'd 'em to ac<g ref="char:EOLhyphen"/>knowledge ſome Superiour Being.</p>
+            <p>As Fear was the chief Cauſe of this, ſo their Worſhip was Cruel, and their Manners (which are always influenc'd by the Nature of Religion) Barbarous. But when they began to Settle into Societies, and to Converſe with one another; When in the leiſure of Peace and Plenty, they re<g ref="char:EOLhyphen"/>flected upon the Firſt Cauſe of the Benefits which they enjoy'd; and from the Contemplation of God's Goodneſs in his Works, roſe gently to the Diſcovery of his Goodneſs in his Eſſence; then Love grew the Principle of their Glad Obedience. And accordingly their Worſhip was Bloodleſs and Chearful, and their Manners Innocent and Indear<g ref="char:EOLhyphen"/>ing.</p>
+            <p>So that the Improvement of Humane Nature conſiſts in the Notions of Goodneſs in the Divine, and Gods Glory was manifeſted to the World. Not only, by ſuch worthy Conceptions of Him,
+<pb n="8" facs="tcp:65368:7"/>but alſo, by the mild Influence which theſe Conceptions had upon mens Minds and Actions.</p>
+            <p>But if, when Men had got thus far by the Light of Nature, any one ſhould have ſtarted up, and pretended to have offer'd Violence to his Neighbour; to have afflicted, tormented, nay murther'd him, by a particular Commiſſion from God himſelf, and in order to his Glory; then Love muſt have given place to Fear imme<g ref="char:EOLhyphen"/>diately, and Humane Nature turn'd Wild and Savage again: And either have Renounc'd all Belief of a God; or imagin'd Him to have been ſo Dreadful a Being, and Worſhipt Him in ſo Barbarous a manner, as would have been far worſe: For as <hi>Plutarch</hi> ſays, <hi>Would it not be more for the Honour of the Gods?</hi>
+               <note place="margin">Plut. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>For the</hi> Scythians <hi>and</hi> Carthaginians, <hi>who offer'd Men upon their Altars, to have deny'd their Being altogether? than to Teach, That they delighted in ſuch Sacri<g ref="char:EOLhyphen"/>fices? Had the</hi> Titans <hi>prevail'd againſt Heaven, and <g ref="char:V">Ʋ</g>ſurp'd the Government of the World; What other</hi> Victims <hi>but theſe, would they have requir'd of us?</hi> Such are the Sacrifices which every Raſh Enthuſiaſt offers; and ſo, much more, do ſome Zealots detract from Gods Glory than Atheiſm it ſelf.</p>
+            <p>But if in the next place, <hi>Violence</hi> is intended to promote the <hi>Goſpel.</hi> How Contradictory
+<pb n="9" facs="tcp:65368:7"/>and Abſurd is this! This is to Recommend Love by Hatred, Mercy by Cruelty, and For<g ref="char:EOLhyphen"/>giveneſs by Deſtruction.</p>
+            <p>That which diſtinguiſhes the Goſpel ſo glori<g ref="char:EOLhyphen"/>ouſly, is its being ſo admirably diſpos'd to be<g ref="char:EOLhyphen"/>get Love and Peace, Juſtice and Charity among all Men. Here Forgiveneſs is improv'd into Beneficence, and Humanity exalted into Chari<g ref="char:EOLhyphen"/>ty: Here Injuries are return'd with Pravers, and Curſes with Bleſſings: Here all our Duty is ſumm'd up under thoſe two ſweet Com<g ref="char:EOLhyphen"/>mands, <hi>Thou ſhalt love the Lord thy God with all thy Heart, with all thy Soul, and with all thy Strength, and thou ſhalt love thy Neighbour as thy ſelf.</hi> Love alone is the fulfilling of this Law; And this is made by our Bleſſed Saviour, the Par<g ref="char:EOLhyphen"/>ticular Diſtinction of his Followers, <hi>By this ſhall all Men know that ye are MY Diſciples, if ye love one another.</hi> The <hi>Phariſees</hi> taught, That it was lawful to hate Enemies, and preferr'd the obſer<g ref="char:EOLhyphen"/>vation of the ſmalleſt Duties, before the works of Juſtice and Mercy. The <hi>Cynicks</hi> renoune'd all Humanity; the <hi>Stoicks</hi> reckon'd Compaſſion an Infirmity, and if they Reveng'd not Injuries, it was out of Pride, not Humility; becauſe they lookt upon it below their Affected Grandeur, to be <hi>diſorder'd</hi> by them; not becauſe they <hi>forgave</hi> them: All other Sects were deficient in this par<g ref="char:EOLhyphen"/>ticular.</p>
+            <pb n="10" facs="tcp:65368:8"/>
+            <p>But Chriſtianity improv'd Humane Nature into the likeneſs of the Divine; And therefore our Bleſſed Lords Diſciples were to be diſtin<g ref="char:EOLhyphen"/>guiſhed from the whole World, by their <hi>loving one another.</hi> And what Examples of this did our Great Maſter leave us! How did he go about doing Good! Healing the Sick graciou<g ref="char:EOLhyphen"/>ſly! Inſtructing the Ignorant gently! and Re<g ref="char:EOLhyphen"/>proving the Wicked calmly! And after innu<g ref="char:EOLhyphen"/>merable Injuries of Contempt and Violence, with what Meekneſs and Patience did he <hi>Die</hi> for the Sins of the whole World. And after all this, ſhall men dare to impoveriſh, impriſon, murther their Brethren, in the Name of this JESUS! Shall they in this Saving Name, which was us'd of Old, only to Heal Diſeaſes, and Caſt out Devils, Form ſo many Conſpiracies, Execute ſo many Maſſacres, Spill the Blood of ſo many Thouſands! as they have done in <hi>Pied<g ref="char:EOLhyphen"/>mont, Hungary, Germany, Ireland, England!</hi> All the World over.</p>
+            <p>Alas! When I conſider thoſe Arts of Cruel<g ref="char:EOLhyphen"/>ty, thoſe elaborate Tortures, and ſtudy'd Deaths, thoſe Ruines of Cities, Subverſions of King<g ref="char:EOLhyphen"/>doms, and Murthers of Princes, which have been done in this Bleſſed Name, and all this pre<g ref="char:EOLhyphen"/>tended officiouſly, for his Service, and the pro<g ref="char:EOLhyphen"/>moting of his Glory: I cannot but repreſent to my ſelf the <hi>Lamb of God,</hi> the <hi>Prince of
+<pb n="11" facs="tcp:65368:8"/>Peace,</hi> turning away from ſuch Spectacles of Horrour, ſaying, <hi>Who hath required theſe things at your Hands? Ye know not what Spirit ye are of, the Son of Man did not come to deſtroy mens lives, but to ſave them.</hi>
+            </p>
+            <p>This was the deſign of our Saviours Coming; the Spirit of Peace and Love is that which we ought to be of; and which is ſo ſweetly diffus'd thro all the Goſpel, and was ſo effectual in pro<g ref="char:EOLhyphen"/>moting it againſt the Wit of <hi>Athens;</hi> the Pow<g ref="char:EOLhyphen"/>er of <hi>Rome;</hi> and the General Prejudice of the whole World. But if men, inſtead of this, will be guilty of ſuch Cruelties upon the account of Chriſtianity, this muſt be ſo far from recom<g ref="char:EOLhyphen"/>mending it, that it is enough to make the Name of Chriſt blaſphem'd among the Gentiles; and to cauſe every one that ſuffers under it, or that beholds ſuch Sufferings, to perſiſt in their Errours more ſtubbornly, as will further appear, if we conſider:</p>
+            <p n="2">2. The other Pretence of Religious Cruelty, which is, to promote the Good of our Neigh<g ref="char:EOLhyphen"/>bour: But not only theſe Extreams of which we have been ſpeaking, but all kinds of Zealous Violence, are improper for this purpoſe.</p>
+            <p>This is generally diſguis'd under the ſpecious Pretence of Zeal. But true Zeal ought firſt to be employ'd upon our ſelves. When men be<g ref="char:EOLhyphen"/>come Examples of Fervency in their Piety, and
+<pb n="12" facs="tcp:65368:9"/>Mortifications in their Obedience or Repent<g ref="char:EOLhyphen"/>ance, then they moſt effectually contribute both to Gods Glory, and their Neighbours Good. Zeal is as neceſſary to the life of Devo<g ref="char:EOLhyphen"/>tion, as the Natural Heat is to that of the body. But then it is apt to become Feveriſh, and di<g ref="char:EOLhyphen"/>ſturb the Brain. It often renders our own good Actions, haſty and imperfect, tho ſurprizing at firſt ſight: As Plants that are forc'd by artifi<g ref="char:EOLhyphen"/>cial Heat, come before others indeed, but bring not with them their natural Smell or Taſte. But generally it affects to ſhew it ſelf at our Neigh<g ref="char:EOLhyphen"/>bours Coſt; it blazes outwards, like <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi>'s Furnace, and deſtroys whoever comes in its way, tho its own Friends.</p>
+            <p>But holy and innocent Zeal! innocent and therefore holy! ſhoots out its Flames directly towards Heaven, and caſts a Light upon all that are round it; but ſuch a Light as is for their Comfort and Direction; ſuch a Light as God Himſelf is, when he ſhines out upon the humble Penitent, in the reviving Glory of Goodneſs and Mercy; Not a devouring Flame; not a conſum<g ref="char:EOLhyphen"/>ing Fire.</p>
+            <p>The Promiſes, that, <hi>He that ſaves a Soul from Death ſhall hide a multitude of Sins;</hi> that, <hi>He that turns many to Righteouſneſs, ſhall ſhine as the Stars for ever and ever;</hi> make many very ear<g ref="char:EOLhyphen"/>neſt to bring over others to their Opinions, and
+<pb n="13" facs="tcp:65368:9"/>to uſe Violence to this purpoſe; but <hi>No Man is crown'd except he ſtrive lawfully:</hi> It is not enough to be zealous in any matter, unleſs we obſerve thoſe Rules and Conditions which God has preſcrib'd to us. And if Men really ſought their Neigh<g ref="char:EOLhyphen"/>bours Good, as fervently as they did their own, they would find, that Violence is not only againſt the whole Deſign of the Goſpel (as has been ſhown;) but alſo againſt their own Defign of convincing their Neighbour.</p>
+            <p>For Religion muſt be a free Conſent of the Soul; and can be acceptable to God only as 'tis Voluntary. <hi>He requires Truth in the inward parts;</hi> and that we ſhould <hi>Love him with all our Hearts, with all our Minds,</hi> &amp;c. But how can this be with<g ref="char:EOLhyphen"/>out full Conviction; and how can full Conviction be wrought, but by gentle Uſage, calm Reaſon<g ref="char:EOLhyphen"/>ing, and good Example: The Will can never be forc'd to give a <hi>ſincere</hi> Aſſent, after all the Violence that can be offer'd; But Reaſon upon the ap<g ref="char:EOLhyphen"/>pearance of any Force, is apt to Contract it ſelf, and prepare for Reſiſtance; both becauſe Truth may juſtly be ſuſpected, if it comes in ſo Hoſtile a manner; as alſo, becauſe it cannot have leiſure to examine <hi>What is Truth,</hi> when the Buſineſs is grown to be <hi>Self-preſervation.</hi>
+            </p>
+            <p>Beſides, All Errour, conſidering the Vanity of Mankind, is of a nice and tender Nature: It re<g ref="char:EOLhyphen"/>quires a great deal of Management and Addreſs,
+<pb n="14" facs="tcp:65368:10"/>to make People own that they are in the Wrong, Eſpecially in matters of Religion. But if in<g ref="char:EOLhyphen"/>ſtead of this, Violence is offer'd, and mens Inter<g ref="char:EOLhyphen"/>reſt, Liberties or Lives, are any way touch'd by Perſecution; not only Conceitedneſs, but Anger and Revenge confirm the Errour, and make it ſink deeper in the ſullen Sufferer: And when Peo<g ref="char:EOLhyphen"/>ple are once brought to ſuffer, this will rather <hi>diſperſe</hi> than <hi>ſuppreſs</hi> the Errour, (as ſome Stains ſpread the wider, the nearer they are held to the Fire.) For Conſtancy in Suffering gives Reputa<g ref="char:EOLhyphen"/>tion to the Cauſe, whatever it is; becauſe every one can judge of Courage, Meekneſs and Pati<g ref="char:EOLhyphen"/>ence, tho few of Truth; and Pity (in a Good-Natur'd Nation eſpecially) ſoftens the beholders into a liking of the Sufferer; and brings him by degrees, to Excuſing and Defending him; and at laſt, <hi>inſenſibly,</hi> to the Embracing his Opinions.</p>
+            <p>Therefore the utmoſt that we can expect from Force is an outward Compliance; and that either from timorous People; or from ſuch as will not prejudice their Intereſt for any Religion in the World; of which there are too many! Violence may extort perhaps, Confeſſion from the Mouth, but will not hinder Curſes, at the ſame time, in the Heart; it may fright People into <hi>counterfeiting,</hi> but not perſuade 'em into <hi>believing;</hi> and after all the Induſtrious Cruelty of <hi>Inquiſitions</hi> or <hi>Dra<g ref="char:EOLhyphen"/>goons,</hi> there will be <hi>Jews</hi> in <hi>Spain,</hi> and <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi>
+               <pb n="15" facs="tcp:65368:10"/>in <hi>France,</hi> as <hi>Proſtrate</hi> as any at the <hi>Eleva<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>But one particular Reaſon againſt the Raſhneſs of Zealous Cruelty, or any General Violence, is, becauſe the <hi>Good</hi> ſhould not ſuffer with the <hi>Evil;</hi> this was a Conſideration of that Importance, that our Saviour left ample Inſtructions concerning it, 13 <hi>Matth.</hi> 29, 30. where he poſitively forbids the <hi>gathering of the Tares, leſt they ſhould root up the Wheat alſo;</hi> and his Orders in this matter are, that they ſhould <hi>Let both grow together till the Har<g ref="char:EOLhyphen"/>veſt. This</hi> (as St. <hi>Chryſ.</hi> upon the place) <hi>was to forbid Wars, Blood and Slaughter upon the account of He<g ref="char:EOLhyphen"/>reſie; for if People will take up Arms to murther Hereticks, many innocent Men muſt ſuffer with them.</hi> This is ſo plain, that it toucht one of the Boldeſt Conſpirators in <hi>this Days</hi> Treaſon; and made him conſult his <hi>Confeſſor</hi> upon it: And tho the <hi>Jeſuit</hi> gave it againſt our Saviour; yet no <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> ſure, can doubt which he ought to fol<g ref="char:EOLhyphen"/>low.</p>
+            <p>For theſe Reaſons, no Religious Cruelty; no Violence of Zeal is proper to promote Gods Glo<g ref="char:EOLhyphen"/>ry, or our Neighbours Good: But on the contra<g ref="char:EOLhyphen"/>ry, Unreaſonable and Unjuſt.</p>
+            <p>But tho theſe are the uſual Pretences, yet the true Cauſes of all Extreams of this kind, are of ano<g ref="char:EOLhyphen"/>ther Nature. I ſhall inſtance in two or three, which may moſt immediately concern us.</p>
+            <pb n="16" facs="tcp:65368:11"/>
+            <p n="1">I. The firſt is, the Pride and Haughtineſs of Power: there is no doubt but <hi>Nebuchadnezzar</hi>'s Fury was inflam'd to ſuch a height, to ſee his Decree ſlighted by none but theſe Three <hi>Jews,</hi> his Slaves, his Captives; he was concern'd for his <hi>own Honour</hi> as much as his Idols: the ſame Temper which makes men Peeviſh and Paſſionate when they cannot get the better in private Di<g ref="char:EOLhyphen"/>ſputes, breaks out into Perſecution, when it meets with Power: True Zeal is the fervency of Love, and therefore beneficial; but counterfeit Zeal is nothing <hi>but the fervency of Pride, and therefore deſtructive.</hi>
+            </p>
+            <p>And there is no queſtion but <hi>Diſdain</hi> that ſo ſmall an Iſland as this, ſhould be able to <hi>confate</hi> and <hi>oppoſe</hi> 'em <hi>ſo long,</hi> has exaſperated 'em to ſuch a degree: For tho the <hi>Cauſe of God,</hi> and <hi>Religion</hi> is pretended, all the <hi>Conſpiracies</hi> againſt this Nation, have been owing chiefly, to the <hi>Pride of Supremacy,</hi> and the <hi>Indignation of Infallibi<g ref="char:EOLhyphen"/>lity.</hi>
+            </p>
+            <p n="2">II. Another Reaſon of this is, the endeavouring to recommend our ſelves to Man, rather than God: 'Tis uſual for Men to engage in ſome Party, to further their Ambition, or Intereſt, and then ſomething extraordinary muſt be done, to ſhow their Fidelity to that Party. This is a very ge<g ref="char:EOLhyphen"/>neral Corruption, and a great Reaſon of that <hi>Pre<g ref="char:EOLhyphen"/>judice</hi> and <hi>Paſſion,</hi> that <hi>want of Charity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi>
+               <pb n="17" facs="tcp:65368:11"/>or rather, of that increaſe of <hi>Diviſion</hi> and <hi>Bitterneſs</hi> among us. For ſince all Men cannot be of one Opinion; He that is eager to approve himſelf to ſome particular Number, muſt needs do it at the others coſt: Therefore tho the Service of God, and the Good of Mankind is pretended never ſo much; we may be aſſur'd, that who<g ref="char:EOLhyphen"/>ever is Cruel and Barbarous for his <hi>miſtaken Neighbours</hi> ſake, for his <hi>ſuffering Saviours</hi> ſake, is ſo <hi>only for his own ſake,</hi> and that 'tis <hi>ſome other God which he ſerves and worſhips,</hi> beſides <hi>the true God.</hi>
+            </p>
+            <p n="3">III. The laſt Reaſon of this, which I ſhall mention at preſent, is, An Opinion that ſuch Violence is meritorious for the Expiation of former Sins. This is one of the ſtrongeſt ſup<g ref="char:EOLhyphen"/>ports of the <hi>Supremacy.</hi> For if a Prince is known to have been of a Vicious Life, and can be made ſenſible of this by his <hi>Confeſſor,</hi> 'tis but pointing him out ſuch or ſuch Hereticks, and <hi>their Deſtruction,</hi> ſhall be <hi>his Pardon;</hi> and in<g ref="char:EOLhyphen"/>feriour Perſons are made uſe of to the ſame purpoſe, proportionably.</p>
+            <p>But is there any other Atonement for Sin than our Redeemers Sacrifice! Or ſhall Man make uſe of the Blood of Chriſtians and Sub<g ref="char:EOLhyphen"/>jects to this end, inſtead of Faith and Repent<g ref="char:EOLhyphen"/>ance? Alas! what Extreams may a miſguided Conſcience be driven into! and how dreadful
+<pb n="18" facs="tcp:65368:12"/>is Sovereign Power! when made uſe of to atone for its own Guilt, and whetted on by Superſtition and Revenge for this Purpoſe! Bleſſed be God! That we learn this, rather from others Sufferings than our own Experience!</p>
+            <p>Theſe are the true Cauſes of Religious Cru<g ref="char:EOLhyphen"/>elty, and the barbarous effects of Zealous Vio<g ref="char:EOLhyphen"/>lence, tho others are pretended: But there are lower degrees of it, upon the account of leſſer Differences, which are proportionably unwar<g ref="char:EOLhyphen"/>rantable, and whoever perſecutes his Brother for Opinions, <hi>not dangerous to Government, not deſtru<g ref="char:EOLhyphen"/>ctive of good Manners, not detracting from the Di<g ref="char:EOLhyphen"/>vinity of our Saviour, or the Authority of Gods Word,</hi> is <hi>greatly miſtaken, and under Condemnation.</hi>
+            </p>
+            <p>That <hi>Jeſus!</hi> who died for us all, recommend<g ref="char:EOLhyphen"/>ed us to one another, by the ſtricteſt Obligations of <hi>Mutual Love;</hi> and his Apoſtles enforc'd the ſame continually, commanding us, <hi>to bear one anothers burthens, and to let our Moderation be Known unto all Men;</hi> and unleſs <hi>this mind be in us, which was,</hi> ſo remarkably, <hi>in Chriſt Jeſus,</hi> I cannot ſee with what Confidence, we can contend for his Glory, or preſume to be call'd by his <hi>Peaceful Name.</hi>
+            </p>
+            <p>But tho <hi>Perſecution</hi> is ſo faulty, and <hi>Modera<g ref="char:EOLhyphen"/>tion</hi> ſo commendable, they are not always pre<g ref="char:EOLhyphen"/>ſently diſtinguiſh'd, being extreamly diſguis'd by Cunning and Hypocriſie, according as Men
+<pb n="19" facs="tcp:65368:12"/>have occaſion to raiſe Anger, or move Com<g ref="char:EOLhyphen"/>paſſion.</p>
+            <p>
+               <hi>Perſecution</hi> is the Cry of all <hi>Monſtrous Opinions</hi> when they firſt Crawl out into the World; if any thing is Vented, tho never ſo deſtructive to the <hi>Fundamentals of Government,</hi> or <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> it begins with an Invective againſt <hi>Perſe<g ref="char:EOLhyphen"/>cution;</hi> and tho the whole Treatiſe has nothing but <hi>Falſhood</hi> and <hi>Inſolence,</hi> concludes with the Praiſe of <hi>Moderation.</hi>
+            </p>
+            <p>Sometimes the juſt Condemnation of Crimi<g ref="char:EOLhyphen"/>nals is call'd <hi>Perſecution;</hi> ſometimes the cor<g ref="char:EOLhyphen"/>rupt acquitting of 'em <hi>Moderation.</hi> Sometimes <hi>Conſtancy</hi> to the Plaineſt Articles of Faith, is reckon'd a Sign of a <hi>Perſecuting Spirit;</hi> ſome<g ref="char:EOLhyphen"/>times <hi>Indifferency</hi> as to <hi>Religion,</hi> whether there be any ſuch thing at all, an Argument of a <hi>Moderate One.</hi>
+            </p>
+            <p>But if there is any ſuch thing as <hi>Religion, In<g ref="char:EOLhyphen"/>differency</hi> muſt be an <hi>Errour,</hi> whenever that is <hi>really</hi> in danger. But <hi>Conſtancy</hi> to it can never be ſo, <hi>if not injurious to our Neighbour.</hi>
+            </p>
+            <p>A good Man ought to believe <hi>truly,</hi> as he <hi>pro<g ref="char:EOLhyphen"/>feſſes;</hi> and to act <hi>ſteddily</hi> as he <hi>believes;</hi> and yet he ought, at the ſame time, to have Charity to<g ref="char:EOLhyphen"/>wards others, who profeſs the ſame Faith, tho not exactly in the ſame <hi>Manner.</hi> Let our <hi>Con<g ref="char:EOLhyphen"/>ſtancy</hi> then be ſoftned by our <hi>Charity;</hi> and let our <hi>Charity</hi> be ſupported by our <hi>Conſtancy;</hi> ſo
+<pb n="20" facs="tcp:65368:13"/>ſhall our <hi>Zeal</hi> neither languiſh into <hi>Indifferency,</hi> nor fret into <hi>Perſecution;</hi> and ſo ſhall we be at the ſame time, <hi>juſt</hi> to our Neighbour, and <hi>faith<g ref="char:EOLhyphen"/>ful</hi> to our God.</p>
+            <p>I have been the more particular upon this Head, becauſe the Pretences or Miſtakes of Zeal and Religion, were not only the Occaſion of the Barbarous Conſpiracy detected ſo Providen<g ref="char:EOLhyphen"/>tially <hi>this day:</hi> but have been made uſe of too often, to the great miſery of this poor Nation.</p>
+            <p n="3">III. The Third thing I Propos'd, was to com<g ref="char:EOLhyphen"/>pare the Greatneſs of the Deliverance menti<g ref="char:EOLhyphen"/>oned in the Text, with our own. <hi>God ſent his Angel, and deliver'd his Servants that truſted in him:</hi> The great Reaſon of this here mention'd is be<g ref="char:EOLhyphen"/>cauſe they <hi>truſted in God.</hi> When the Tyrant threatned theſe Three <hi>Jews</hi> with ſo cruel and ſudden a Death, <hi>v.</hi> 15. with what undaunted Reſolution do they Reply immediately, <hi>O Ne<g ref="char:EOLhyphen"/>buchadnezzar, we are not careful</hi> (very ſoli<g ref="char:EOLhyphen"/>citous) <hi>to anſwer thee in this matter: If it be ſo, our God whom we ſerve, is able to deliver us from the burning fiery Furnace, and he will deliver us out of thy hand, O King! But if not</hi> (if his Wiſ<g ref="char:EOLhyphen"/>dom ſhall not think fitting to do ſo) <hi>Be it known unto thee, O King! That we will not ſerve thy Gods, nor Worſhip the Golden Image which thou haſt ſet up.</hi> There are few Inſtances of ſuch Con<g ref="char:EOLhyphen"/>ſtancy, ſuch entire Truſt in God as this was;
+<pb n="21" facs="tcp:65368:13"/>and this <hi>acknowledging of his Providence,</hi> this <hi>ſubmitting to his Will,</hi> made God ſend his holy Angel, to Deliver his Faithful Servants in ſo miraculous a manner: But their and our Deliverance is to be meaſur'd beſt by the greatneſs of the Danger which they were Expos'd to; Bound Hand and Foot; Thrown into the midſt of a Fiery Furnace, whoſe Heat was ſo violent, as to ſlay thoſe who were deſign'd to be their Executioners; and yet had Power over nothing about 'em, but their Bonds, to reſtore 'em to their Liberty.</p>
+            <p>The Parallel may be drawn very like, between this and our own Caſe. The Deliverance was almoſt as Wonderful: They alone, who deſign'd our Deſtru<g ref="char:EOLhyphen"/>ction, periſh'd; and our Liberty, from their Bonds, grew greater than before. But <hi>their</hi> Cruelty far exceeded that of this Heathen Tyrant, becauſe ſo Baſe, ſo Treacherous, and extended not to Three Captives only; but to <hi>The greateſt Aſſembly in the Chriſtian World.</hi>
+            </p>
+            <p>And here I am at a loſs how to expreſs my ſelf! fot fear of ſeeming to fall into the <hi>miſtaken Zeal</hi> which I have condemn'd; or to want that <hi>Charity</hi> which I have endeavour'd ſo much to recommend. But alas! What words can be found to ſhew our <hi>Charity,</hi> when an Acti<g ref="char:EOLhyphen"/>on is ſo very foul in its own Nature, that the bare men<g ref="char:EOLhyphen"/>tion of it, muſt look like Invective. Let they them<g ref="char:EOLhyphen"/>ſelves then, be Judges of the matter; Let us put it friendly, to any one of them, and ſee what they may be ſuppos'd to ſay, to Defend it, to Excuſe it, or to Evade it.</p>
+            <p>Cau they deny the matter of Fact? Were not the
+<pb n="22" facs="tcp:65368:14"/>Inſtruments of Death found ready? Did not the Wretch that was to give the Fatal Blow, Triumph in the Deſign? Did not many of them Die deſpetately, to prevent Publick Juſtice, and others Confeſs it? And can it after all this be Queſtion'd? Well would it be for them, if any one of the Miracles which they have boaſted of, for a Thouſand Years paſt; had a Quarter of this Evidence.</p>
+            <p>But perhaps they will ſay, That theſe were only a few Private Perſons, Mad-men and Enthuſiaſts, and therefore the particular Crimes of ſuch, ought not to be laid upon the Whole Body of that Communion.</p>
+            <p>I doubt not, but that there were many <hi>then,</hi> and are <hi>now</hi> of that <hi>Perſwaſion,</hi> which heartily abhor and deteſt ſuch Contrivances. But as to the Madneſs of theſe Men, or its being a <hi>private <g ref="char:V">Ʋ</g>ndertaking.</hi> No Mad-man is intru<g ref="char:EOLhyphen"/>ſted with Treachery of ſuch Importance; no <hi>Enthuſi<g ref="char:EOLhyphen"/>aſt</hi> can carry on ſuch a Series of Subtilty and Cunning; for tho ſuch People are the beſt Executioners, upon ſuch Occaſions; yet the Springs that move 'em muſt be of another kind, and did reach farther than was then diſcover'd, as was plain from the General Expectation among all the <hi>Papists</hi> abroad, <hi>of ſome extraordinary Acti<g ref="char:EOLhyphen"/>on in</hi> England <hi>about that time.</hi>
+            </p>
+            <p>The Maſſacre at <hi>Paris</hi> may perhaps, be call'd a Tu<g ref="char:EOLhyphen"/>mult at a Publick Solemnity, or allow'd to be a piece of <hi>Cruelty of State,</hi> or the <hi>unjust revenge of an injur'd Prince;</hi> to ſhift it off from the <hi>Church of Rome.</hi> But he that ſees the particulars of that <hi>bloody Tranſaction,</hi> Painted Triumphantly in <hi>one of the Chief Rooms of the
+<pb n="23" facs="tcp:65368:14"/>Vatican,</hi> with Inſcriptions upon each part, and the Ad<g ref="char:EOLhyphen"/>miral <hi>Coligni</hi> nam'd directly, cannot deny (be he ne<g ref="char:EOLhyphen"/>ver ſo partial) but that the Court of <hi>Rome,</hi> highly approves, and encourages ſuch Tragedies, if they are not contriv'd or manag'd there.</p>
+            <p>But again, it may be ſaid, That tho this Fact was true, yet 'tis the part of <hi>Charity, to make the best of Er<g ref="char:EOLhyphen"/>rours,</hi> and not to <hi>aggravate</hi> 'em, and <hi>inflame</hi> Revenge. I grant this, where the <hi>Evidence</hi> is <hi>doubtful,</hi> or where there is <hi>Repentance;</hi> But where there is <hi>neither</hi> of theſe, Enormous Crimes are to be made Publick, not <hi>to in<g ref="char:EOLhyphen"/>flame Revenge,</hi> but to <hi>awaken Caution.</hi> Beſides, this is neceſſary to the <hi>Fulneſs of our Praiſe;</hi> How can we give God Thanks without we Know the greatneſs of the Mercy receiv'd; or how can that be known, with<g ref="char:EOLhyphen"/>out laying open the <hi>Greatneſs of the Danger</hi> from which he has deliver'd us? Or, how ſhould this be done? without ſhewing the <hi>bloodineſs of their Cruelty,</hi> and the <hi>baſeneſs of their Treachery,</hi> that were Engag'd in it.</p>
+            <p>To Soften and Diſguiſe ſuch an Action, to <hi>make the best</hi> of <hi>ſuch a Wickedneſs,</hi> is to make <hi>the worst of Gods Goodneſs.</hi> Yet notwithſtanding theſe Conſiderations, Let 'em but acknowledge the Crime, let 'em but own, <hi>That ſeveral</hi> Jeſuits <hi>and other</hi> Papiſts, <hi>had contriv'd and prepar'd to murther their King, their Princes, their Nobles, and many Handred of the Chief of the Gentry, of their own Country, in a moment, <g ref="char:V">Ʋ</g>pon the Pretence of the Christian Religion.</hi> Let 'em, I ſay, but Confeſs this <hi>plain</hi> and <hi>im<g ref="char:EOLhyphen"/>partial Truth,</hi> and then let the Sophiſtry of their <hi>Jeſu<g ref="char:EOLhyphen"/>its,</hi> and the Zeal of all their other <hi>Orders, make the best of it,</hi> as much as they pleaſe.</p>
+            <pb n="24" facs="tcp:65368:15"/>
+            <p>But let us turn away our Eyes from theſe <hi>frightful</hi> Objects to thoſe more delightful; let us leave the <hi>Cruelty of Man,</hi> to <hi>contemplate</hi> and <hi>adore the Mercy of God.</hi>
+            </p>
+            <p>We have ſeen for what Reaſon we were expos'd to ſuch <hi>Danger;</hi> we have examin'd the <hi>Pretences of Religi<g ref="char:EOLhyphen"/>ous Cruelty,</hi> and ſhown the <hi>Injustice</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonable<g ref="char:EOLhyphen"/>neſs</hi> of it, and we have conſider'd the Greatneſs of our Deliverance: What remains now! but to offer up our Praiſe and Thankſgiving; that <hi>Sacrifice</hi> ſo delightful to Man, and ſo Acceptable to God, for that <hi>He ſent his Angel, and deliver'd his Servants.</hi>
+            </p>
+            <p>Bleſſed then be the God and Father of our Lord Jeſus Chriſt, for Preſerving the <hi>Church of this Nation,</hi> from the ſeveral Attempts of all its Adverſaries; particularly, that of <hi>This Day,</hi> to be in after Ages, the <hi>Ornament and Defence of the Reformation.</hi>
+            </p>
+            <p>Bleſſed be the Guardian Providence of theſe Kingdoms, which has preſerv'd the <hi>Excellent Conſtitution of Parliaments,</hi> as the <hi>happy Mean,</hi> between the <hi>Extreams</hi> of <hi>Liberty</hi> and <hi>Power,</hi> as the <hi>Security</hi> of our <hi>Rights</hi> as <hi>Engliſhmen;</hi> and of our <hi>Religion</hi> as <hi>Chriſtians.</hi> For had this been aboliſh'd in the Deſtruction deſign'd, as on this Day, both had been loſt for ever.</p>
+            <p>For <hi>Rome</hi> is <hi>Infallible</hi> in <hi>Temporals</hi> as well as <hi>Spirituals; Arbi<g ref="char:EOLhyphen"/>trary Power</hi> is <hi>Civil Infallibility,</hi> as <hi>Arbitrary Doctrine</hi> is <hi>Eccleſiaſtical.</hi>
+            </p>
+            <p>Bleſſed then, Ever bleſſed be the Watchful Goodneſs of our God! O may the Mercies of this Happy Day, (which have re<g ref="char:EOLhyphen"/>ceiv'd ſo vaſt an increaſe of late!) Spread by degrees through all our Calendar! and every moment of time be fatal to ſuch a Cauſe.</p>
+            <p>To conclude, May the frequent Deliverances which we have had, increaſe <hi>Our Truſt in God;</hi> and at length, influence our Actions by a <hi>Practical Gratitude.</hi> May the Dangers we are ſtill in from the <hi>ſame People,</hi> increaſe our <hi>
+                  <g ref="char:V">Ʋ</g>nion;</hi> and make us more <hi>conſtant</hi> to our Holy Religion; and more exact in our Obedience to our God: Remembring always, That the chief End of this, and all our other Deliverances, was <hi>That we ſhould not Serve nor Worſhip any God, except our own God.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65368:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
